@@ -24,6 +24,20 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
+电影,#genre#
+漫威电影,http://epg.112114.xyz/douyu/4282654
+神乐影片2,http://epg.112114.xyz/douyu/85894
+周末影院,http://epg.112114.xyz/douyu/3637765
+CCTV放映室,http://epg.112114.xyz/douyu/10011042
+特辑影院,http://epg.112114.xyz/douyu/3637778
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+北京大蜜,http://epg.112114.xyz/douyu/805235
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
+新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+
 卫视,#genre#
 內蒙古卫视,https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8
 內蒙古卫视,https://epg.pw/stream/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
