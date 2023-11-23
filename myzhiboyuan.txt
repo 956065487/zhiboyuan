@@ -44,7 +44,7 @@ CCTV16 奥林匹克,https://tv.iill.top/cqyx/cctv16HD
 CCTV 文化精品,https://tv.iill.top/cqyx/yswhHD
 CCTV 第一剧场,https://tv.iill.top/cqyx/diyijuchangHD
 
-电影,#genre#
+影视,#genre#
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
