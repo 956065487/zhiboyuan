@@ -30,10 +30,6 @@ CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-NEWTV电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-动作电影,http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-宇哥电影,http://epg.112114.xyz/douyu/413573
-精品电影,http://183.207.248.71/cntv/live1/jdianying/jdianying
 
 卫视,#genre#
 內蒙古卫视,https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8
