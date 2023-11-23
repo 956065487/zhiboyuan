@@ -1,5 +1,0 @@
-{ "storeHouse": [ 
-
-{"sourceName":"测试自找直播源","sourceUrl":"https://chuanshuo.77blog.cn/dc.json"} 
-
-]}
