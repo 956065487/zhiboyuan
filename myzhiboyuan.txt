@@ -46,13 +46,13 @@ CCTV 第一剧场,https://tv.iill.top/cqyx/diyijuchangHD
 
 影视,#genre#
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 电影2,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
-CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,https://epg.pw/stream/469d1a55e8234c672e7ed47a336aa1ccb5f5aec618a0f24641ba38ec746a3161.m3u8
 CCTV6,https://epg.pw/stream/7fe14fead22e08de87944b663beda51a3967f32c580c3fad466d300b07bae155.m3u8
