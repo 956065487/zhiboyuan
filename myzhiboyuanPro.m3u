@@ -87,18 +87,44 @@ https://tv.iill.top/cqyx/cctv16HD
 https://tv.iill.top/cqyx/yswhHD
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV",CCTV 第一剧场
 https://tv.iill.top/cqyx/diyijuchangHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",斗鱼电影
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",斗鱼电影2
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",斗鱼电影19
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
+http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
+http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
+http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",百视电影
+https://bp-caster.bestv.com.cn/91/3/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",精彩电视剧
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-id="1788" tvg-name="武汉电视剧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png" group-title="影视",武汉电视剧
+http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",华数电影1
+http://221.0.78.198:1681/hls/10296/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",华数电影2
+http://221.0.78.198:1681/hls/10294/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",华数电影3
+http://221.0.78.198:1681/hls/10278/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影
+http://pull.kktv8.com/livekktv/99350550.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影
+http://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="影视",四川岳眉电影
+http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="影视",CCTV6电影
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="影视",好莱坞电影
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",欧美电影
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",NEWTV超级电影
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",帝艺电影
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1350670730
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="影视",好莱坞电影
-http://www.51romzj.love:35455/huya/21059587
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
 http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影_英叔
@@ -107,58 +133,12 @@ http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 https://live.metshop.top/huya/11352886
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影_S神来了
 https://live.metshop.top/huya/11352903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",成龙
-https://ygbh--xingkongbujian.repl.co/huya/11342386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",怪兽
-https://ygbh--xingkongbujian.repl.co/huya/21059577
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",枪战
-https://ygbh--xingkongbujian.repl.co/huya/21059579
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",推荐
-https://ygbh--xingkongbujian.repl.co/huya/11602041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",盗墓
-https://ygbh--xingkongbujian.repl.co/huya/21059552
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",玄幻
-https://ygbh--xingkongbujian.repl.co/huya/11342414
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",谍战
-https://ygbh--xingkongbujian.repl.co/huya/21059585
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",战争
-https://ygbh--xingkongbujian.repl.co/huya/21059592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",喜剧
-https://ygbh--xingkongbujian.repl.co/huya/11352877
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",国产
-https://ygbh--xingkongbujian.repl.co/huya/11352973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",李连杰
-https://ygbh--xingkongbujian.repl.co/huya/11342390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",洪金宝
-https://ygbh--xingkongbujian.repl.co/huya/11279251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",小鬼头
-https://ygbh--xingkongbujian.repl.co/huya/11352963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",贺岁片
-https://ygbh--xingkongbujian.repl.co/huya/11601986
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",功夫片
-https://ygbh--xingkongbujian.repl.co/huya/11352941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",丧尸片
-https://ygbh--xingkongbujian.repl.co/huya/21059578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",灾难片
-https://ygbh--xingkongbujian.repl.co/huya/11602075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",谍战片
-https://ygbh--xingkongbujian.repl.co/huya/21059587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",战争片
-https://ygbh--xingkongbujian.repl.co/huya/21059574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",动作电影
-https://ygbh--xingkongbujian.repl.co/huya/11602077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",喜剧专场
-https://ygbh--xingkongbujian.repl.co/huya/11602044
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",不挤影院
-https://ygbh--xingkongbujian.repl.co/huya/11352897
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",国产悬疑
-https://ygbh--xingkongbujian.repl.co/huya/11342395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",古墓系列
-https://ygbh--xingkongbujian.repl.co/huya/11352913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",高能反转
-https://ygbh--xingkongbujian.repl.co/huya/11352887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",喜乐影院
-https://ygbh--xingkongbujian.repl.co/huya/21059580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-魔法世界
+http://43.138.170.29:35455/huya/21059580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-欧美电影
+http://43.138.170.29:35455/huya/11352880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-欧美娱乐
+http://43.138.170.29:35455/huya/21059574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-林正英
 http://43.138.170.29:35455/huya/11342421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-沈腾
@@ -197,8 +177,6 @@ http://43.138.170.29:35455/huya/11602043
 http://43.138.170.29:35455/huya/11602033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-黄渤
 http://43.138.170.29:35455/huya/11352876
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",���牙-张卫健
-http://43.138.170.29:35455/huya/11342423
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-冯小刚
 http://43.138.170.29:35455/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-百鸟朝凤
@@ -209,8 +187,6 @@ http://43.138.170.29:35455/huya/11274154
 http://43.138.170.29:35455/huya/11352903
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-港台电影
 http://43.138.170.29:35455/huya/880261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-高分电影
-http://43.138.170.29:35455/huya/16615910
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-搞笑僵尸片
 http://43.138.170.29:35455/huya/11352963
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-国产青春
@@ -219,8 +195,6 @@ http://43.138.170.29:35455/huya/11602075
 http://43.138.170.29:35455/huya/21059587
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-黑帮斗争
 http://43.138.170.29:35455/huya/11342419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",��牙-红海行动
-http://43.138.170.29:35455/huya/11601986
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-极限挑战]
 http://43.138.170.29:35455/huya/11352914
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-金庸的武侠世界
@@ -249,12 +223,6 @@ http://43.138.170.29:35455/huya/16913382
 http://43.138.170.29:35455/huya/11352881
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-命案十三宗
 http://43.138.170.29:35455/huya/11601981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-魔法世界
-http://43.138.170.29:35455/huya/21059580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-欧美电影
-http://43.138.170.29:35455/huya/11352880
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-欧美娱乐
-http://43.138.170.29:35455/huya/21059574
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影23
 http://43.138.170.29:35455/huya/11601970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",电影33
@@ -289,26 +257,6 @@ http://43.138.170.29:35455/huya/11352974
 http://43.138.170.29:35455/huya/11352877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",虎牙-小鲤鱼
 http://43.138.170.29:35455/huya/11601961
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",英叔
-https://ygbh--xingkongbujian.repl.co/huya/11342421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",死神来了
-https://ygbh--xingkongbujian.repl.co/huya/11352903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",怪兽系列
-https://ygbh--xingkongbujian.repl.co/huya/21059554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",新三国
-https://ygbh--xingkongbujian.repl.co/huya/11352944
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",纪晓岚
-https://ygbh--xingkongbujian.repl.co/huya/11342396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",庆馀年
-https://ygbh--xingkongbujian.repl.co/huya/11352960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",士兵突击
-https://ygbh--xingkongbujian.repl.co/huya/11342430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",爱情公寓
-https://ygbh--xingkongbujian.repl.co/huya/11336726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",武林外传
-https://ygbh--xingkongbujian.repl.co/huya/21059598
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",邻里一家亲
-https://ygbh--xingkongbujian.repl.co/huya/11342426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
@@ -330,11 +278,15 @@ https://epg.pw/stream/09ad86ae6105e1909474775ce2086e303bf2cff6b975cb65ab81dfdd7e
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 https://epg.pw/stream/0e46f1b7a9dcdebef85a83889885750202d8adb29f2e65780f7bfc5774e3c75c.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视[地理封锁]
+https://epg.pw/stream/7b20e3cc6ad82f374f7fa639414cc001074e510da0c112ea53f815ce7b69f615.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视[地理封锁]
 https://epg.pw/stream/5f612073f41c651e4cd3df780cb8ccf6e3e0bd9f9ed1a8d8640d1f197f3c57c7.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 https://epg.pw/stream/03ad89e17d313cc25e7f8ed78065865f99438a07d61e9d6f4912a48a1a06c881.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视[地理封锁]
 https://epg.pw/stream/a65e90010123c974b3b65eba1f7585c8b5db27b15d3cd794735bb761967d2888.ctv
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+https://epg.pw/stream/aea3401c86c9f423a2499a3672fc251cafff5f96a22a74754581ee7e3c100110.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视[地理封锁]
 https://epg.pw/stream/c8a8b8a24ab802c58f26f0520dc40cf341fbd5811ce1ae9327f2c63e26e8fc28.ctv
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视[地理封锁]
@@ -375,7 +327,7 @@ https://epg.pw/stream/c32efbf3ecbd99a1a54106317a35ea9477be7ebe361a25ae3d8a58f8f1
 https://epg.pw/stream/c8a5a4b46376a72c04fd07d5a10e0fa4ded0b1a50ce7ffe83be78d3ddb8c63b5.ctv
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视[地理封锁]
 https://epg.pw/stream/30b63433b5f28577cba95a96a431244d0cdf7f8871329bdadb1c7a7c8441f40b.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",安��卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 https://epg.pw/stream/60ee7b79811110a02d78f390da2d0c0e1edfe30f1f8af1a513d8906bd90cf468.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 https://epg.pw/stream/11f342d32e4e1c40fbf1f999c0a163173d8a90d72f2241d66a228145a705c659.m3u8
@@ -427,7 +379,7 @@ https://epg.pw/stream/57fd1f48302171de006742fe6a8f9043a333d8fdf011cb4d7039d3c439
 https://epg.pw/stream/4c867fa060d93364fea14f76352726bd2ebc55be6154220cd9aac87ffdb4728.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 https://epg.pw/stream/76712c2f80eaaae7b0397c0e229eb2d52573e6b62d728fb223c9df36230b6915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视[地理封锁]
 https://epg.pw/stream/82f4bc6e2712ff2c948830bc38f5527ed090c1c51d09be1655ecf465f4d7b669.m3u8
@@ -445,7 +397,7 @@ https://epg.pw/stream/33c29f278a53bdb23e371255a3768de9a2e4fcd15b56e2ea826e325810
 https://epg.pw/stream/6fae5f1812d0259178cac7bc569df680b75fd44faa126cad4a7d81f3aba71e18.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 https://epg.pw/stream/d49d21cb06f02bf7e9c13a7a9323895fceaeea79b2c54fe72c02bac7c1708e55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",东方卫视[地理封锁]
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视[地理封锁]
 https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视[地理封锁]
 https://epg.pw/stream/cd48131f47d383be99fae927300c43c8d236ae4bc75cee769652528143da5587.ctv
@@ -497,7 +449,7 @@ https://epg.pw/stream/23dd453c9ba55ace08b58f2da1103fa86f2d3e8a52182810fbb4ec81fb
 https://epg.pw/stream/7887c94a2f3124dccfd47ea6546f50c7b7902912331e5518d0fc480889c1a813.ctv
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 https://epg.pw/stream/23db28c32ab3480201f1786bd63814a74e07902931ef4aa44300461df3ec1495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",河南卫视[地理封锁]
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视[地理封锁]
 https://epg.pw/stream/88edb00f067e0592f500e4738079acfb9343338232520f8407d89067f043a18e.ctv
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 https://epg.pw/stream/63baadeb2bbe8a38ac216df1679e8912a9cbe3ddb342c25122bac2f13576754a.m3u8
@@ -515,7 +467,7 @@ https://epg.pw/stream/73224db48a869b5609aee36e6b17a47dd6942bdb6e2dce97a1e52f9f0c
 https://epg.pw/stream/8a1dcb237907b934ce08b8ff482368bc07fadff63af45efcfd7b8800121247c2.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 https://epg.pw/stream/cfe6c386aeda1787f606df629248faf407b2351852e3ea6994357836a1643f5c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 https://epg.pw/stream/b51e5ff7284b89bf240ad12fcb70441c12519c78af543419f74738baf9c38e73.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 https://epg.pw/stream/3b682166d92efb441a614b9855237a82174331023e5a9b462e317055fc61fbc2.m3u8
@@ -611,7 +563,7 @@ https://epg.pw/stream/346003dde96ea21d5ab4884851ebddc3a870bd827dcb08c9c372f3c123
 https://epg.pw/stream/f3fa2640c0dd1c4cbfc07debb1923ba93f09b3450d0b08863521088887753024.ctv
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 https://epg.pw/stream/c6af04395898ed7d0b9e2b76e31d36cbe631f055dbea80825e169fedc3ef6ea3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",重庆卫视[地理封锁]
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视[地理封锁]
 https://epg.pw/stream/9b78d1f9a849c13a74755e01fdee90f64475312d9e52fa8b09e069e22d996c52.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 https://epg.pw/stream/be29a9b24f4a9f3dafcb1d5bc55493d71812d354b08678d9ec9df4da675685ab.m3u8
@@ -669,7 +621,7 @@ https://epg.pw/stream/cb327eadeacf98712311f044716cecd4e1748e0ff1ed890a08eb7f6d5d
 https://epg.pw/stream/1fb919b559c35be3fc7bdae6013764419a118551db0248b110ed83df99a5744e.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 https://epg.pw/stream/24ae5f46f00a5de8e2fb2b0ae24e3acecf22fcb026fe2c011f1cdc9fa3879358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",黑龙江卫视[地理封锁]
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视[地理封锁]
 https://epg.pw/stream/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.ctv
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 https://epg.pw/stream/008e6483219cd7a47f9f84104951ed460bffafb8d8dae434adbd10952e4b35b4.m3u8
