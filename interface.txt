@@ -4,6 +4,8 @@
 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 
+{ "url": "https://yydsys.top/duo", "name": "多多" },
+
 { "url": "http://肥猫.live", "name": "肥猫" },
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
