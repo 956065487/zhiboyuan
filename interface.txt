@@ -4,8 +4,15 @@
 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 
-{ "url": "http://我不是.肥猫.love:63/接口禁止贩卖", "name": "新肥猫" },
-
+{
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长线路"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "🚀公众号：电视盒子集"
+        }, 
+        
 { "url": "http://肥猫.live", "name": "肥猫" },
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
