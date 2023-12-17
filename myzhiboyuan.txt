@@ -174,6 +174,8 @@ CCTV6电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 虎牙-文成公主,http://43.138.170.29:35455/huya/11352974
 虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
 虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961
+
+咪咕视频,#genre#
 咪咕视频1,http://111.13.111.242/000000001000PLTV/123/224/3221235619/1.m3u8?HlsProfileId=
 咪咕视频2,http://111.13.111.242/000000001000PLTV/123/224/3221235639/1.m3u8?HlsProfileId=
 咪咕视频3,http://111.13.111.242/000000001000PLTV/123/224/3221235800/1.m3u8?HlsProfileId=
@@ -188,14 +190,4 @@ CCTV6电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 咪咕视频12,http://111.13.111.242/000000001000PLTV/123/224/3221235836/1.m3u8?HlsProfileId=
 咪咕视频13,http://111.13.111.242/000000001000PLTV/123/224/3221235848/1.m3u8?HlsProfileId=
 咪咕视频14,http://111.13.111.242/000000001000PLTV/123/224/3221235852/1.m3u8?HlsProfileId=
-douyu8,http://epg.112114.xyz/douyu/4332
-douyu9,http://epg.112114.xyz/douyu/6140589
-douyu15,http://epg.112114.xyz/douyu/8770422
-douyu19,http://epg.112114.xyz/douyu/747764
-douyu20,http://epg.112114.xyz/douyu/52787
-douyu24,http://epg.112114.xyz/douyu/36337
-douyu25,http://epg.112114.xyz/douyu/8814650
-douyu28,http://epg.112114.xyz/douyu/263824
-douyu44,http://epg.112114.xyz/douyu/323876
-刘德华,http://epg.112114.xyz/douyu/2516864
 
