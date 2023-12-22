@@ -100,12 +100,17 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 影视,#genre#
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+斗鱼电影2,http://43.138.170.29:35455/douyu/85894
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+苹果影院,http://43.138.170.29:35455/douyu/2793084
+贝爷影院,http://43.138.170.29:35455/douyu/252802
+惊悚影院,http://43.138.170.29:35455/douyu/96577
 电影26,http://43.138.170.29:35455/huya/21059577
 漫威影片,http://43.138.170.29:35455/douyu/6140589
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 史诗级战争电影,http://43.138.170.29:35455/huya/21059556
 电影24,http://43.138.170.29:35455/huya/21059579
+超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 欧美电影,https://epg.112114.xyz/huya/21059581
@@ -121,7 +126,6 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=26623173
 【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=29170933
 【科幻】超炫特效,http://mmitv.top/pltv/yy.php?id=37988782
-超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
 高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948
 超燃动作片,http://mmitv.top/pltv/yy.php?id=1382749913
 可乐电影,http://epg.112114.xyz/douyu/20415
@@ -157,13 +161,8 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 精彩科幻片,http://mmitv.top/pltv/yy.php?id=1382736723
 人生必看的科幻片,http://mmitv.top/pltv/yy.php?id=138274511
 电影_S神来了,https://live.metshop.top/huya/11352903
-神乐影院,http://43.138.170.29:35455/douyu/85894
-苹果影院,http://43.138.170.29:35455/douyu/2793084
-贝贝影院,http://43.138.170.29:35455/douyu/431460
 译制国语,http://43.138.170.29:35455/douyu/2436390
 特辑影院,http://43.138.170.29:35455/douyu/3637778
-贝爷影院,http://43.138.170.29:35455/douyu/252802
-惊悚影院,http://43.138.170.29:35455/douyu/96577
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -175,17 +174,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 动作大片,http://mmitv.top/pltv/yy.php?id=1382749940
 科幻大片,http://mmitv.top/pltv/yy.php?id=1382736840
 高分经典电影,http://mmitv.top/pltv/yy.php?id=1382754187
-国外动作大片,http://mmitv.top/pltv/yy.php?id=1382735540
-国外高分大片,http://mmitv.top/pltv/yy.php?id=1382736867
-木乃伊全集,http://mmitv.top/pltv/yy.php?id=1354889024
-国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896
-国外黑色喜剧：冷幽默小剧场,http://mmitv.top/pltv/yy.php?id=1382745175
-国外科幻,http://mmitv.top/pltv/yy.php?id=1382736800
-国外科幻片,http://mmitv.top/pltv/yy.php?id=1382735585
-国外院线动作大片,http://mmitv.top/pltv/yy.php?id=1382735570
-国外战争,http://mmitv.top/pltv/yy.php?id=1382735571
-国外战争,http://mmitv.top/pltv/yy.php?id=1382749918
-国外侦探电影,http://mmitv.top/pltv/yy.php?id=1382745099
+
 
 国语影视,#genre#
 电影_战争片,http://43.128.40.42:198/虎牙直播/huya.php?id=21059574
@@ -198,6 +187,17 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 电影_国产悬疑,http://43.128.40.42:198/虎牙直播/huya.php?id=11342395
 电影_快意江湖,http://43.128.40.42:198/虎牙直播/huya.php?id=11342435
 电影_古墓系列,http://43.128.40.42:198/虎牙直播/huya.php?id=11352913
+国外动作大片,http://mmitv.top/pltv/yy.php?id=1382735540
+国外高分大片,http://mmitv.top/pltv/yy.php?id=1382736867
+木乃伊全集,http://mmitv.top/pltv/yy.php?id=1354889024
+国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896
+国外黑色喜剧：冷幽默小剧场,http://mmitv.top/pltv/yy.php?id=1382745175
+国外科幻,http://mmitv.top/pltv/yy.php?id=1382736800
+国外科幻片,http://mmitv.top/pltv/yy.php?id=1382735585
+国外院线动作大片,http://mmitv.top/pltv/yy.php?id=1382735570
+国外战争,http://mmitv.top/pltv/yy.php?id=1382735571
+国外战争,http://mmitv.top/pltv/yy.php?id=1382749918
+国外侦探电影,http://mmitv.top/pltv/yy.php?id=1382745099
 虎牙-成龙,http://43.138.170.29:35455/huya/11342386
 虎牙-李连杰,http://43.138.170.29:35455/huya/11342390
 虎牙-刘德华,http://43.138.170.29:35455/huya/11342424
@@ -218,6 +218,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 电影_功夫片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352941
 电影_黑帮片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336719
 电影_灾难片,http://43.128.40.42:198/虎牙直播/huya.php?id=11602075
+
 
 咪咕视频,#genre#
 咪咕视频1,http://111.13.111.242/000000001000PLTV/123/224/3221235619/1.m3u8?HlsProfileId=
