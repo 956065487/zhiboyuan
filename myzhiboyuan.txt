@@ -117,6 +117,7 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574
 虎牙-看救援电影,http://43.138.170.29:35455/huya/21059586
 虎牙-林正英,http://43.138.170.29:35455/huya/11342421
+科幻电影,http://mmitv.top/pltv/yy.php?id=1354930209
 【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=26623173
 【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=29170933
 【科幻】超炫特效,http://mmitv.top/pltv/yy.php?id=37988782
@@ -153,17 +154,8 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 虎牙-天雷滚滚,http://43.138.170.29:35455/huya/11352945
 虎牙-天龙八部,http://43.138.170.29:35455/huya/11602041
 虎牙-歪果仁动作,http://43.138.170.29:35455/huya/21059552
-科幻大片,http://mmitv.top/pltv/yy.php?id=1382745181
-科幻电影,http://mmitv.top/pltv/yy.php?id=1354930209
 精彩科幻片,http://mmitv.top/pltv/yy.php?id=1382736723
 人生必看的科幻片,http://mmitv.top/pltv/yy.php?id=138274511
-HBO,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-HBO,http://208.115.225.174:14136
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO Pop,http://208.115.225.174:14156
-HBO Family,http://208.115.225.174:14144
 电影_S神来了,https://live.metshop.top/huya/11352903
 神乐影院,http://43.138.170.29:35455/douyu/85894
 苹果影院,http://43.138.170.29:35455/douyu/2793084
@@ -226,6 +218,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 电影_功夫片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352941
 电影_黑帮片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336719
 电影_灾难片,http://43.128.40.42:198/虎牙直播/huya.php?id=11602075
+测试,http://dyscdnali1.douyucdn.cn/live/93589rLwddnkoZwx.flv?uuid=
 
 咪咕视频,#genre#
 咪咕视频1,http://111.13.111.242/000000001000PLTV/123/224/3221235619/1.m3u8?HlsProfileId=
