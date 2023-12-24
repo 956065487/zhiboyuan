@@ -130,7 +130,7 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948
 超燃动作片,http://mmitv.top/pltv/yy.php?id=1382749913
 末日系列-外国电影合集,http://mmitv.top/pltv/yy.php?id=1354889019
-测试斗鱼,http://vplay1a.douyucdn.cn/live/36337rnjdc3eiqVC.flv?uuid=
+测试斗鱼,http://vplay1a.douyucdn.cn/live/36337rnjdc3eiqVC.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 虎牙-电影24,http://43.138.170.29:35455/huya/21059579
 虎牙-电影26,http://43.138.170.29:35455/huya/21059577
 虎牙-欧美电影,https://epg.112114.xyz/huya/21059581
