@@ -108,7 +108,7 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 漫威影片,http://43.138.170.29:35455/douyu/6140589
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 史诗级战争电影,http://43.138.170.29:35455/huya/21059556
-
+史诗级战争电影,http://43.138.170.29:35455/huya/21059556
 超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -130,13 +130,16 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948
 超燃动作片,http://mmitv.top/pltv/yy.php?id=1382749913
 末日系列-外国电影合集,http://mmitv.top/pltv/yy.php?id=1354889019
-测试斗鱼,http://vplay1a.douyucdn.cn/live/36337rnjdc3eiqVC.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 虎牙-电影24,http://43.138.170.29:35455/huya/21059579
 虎牙-电影26,http://43.138.170.29:35455/huya/21059577
 虎牙-欧美电影,https://epg.112114.xyz/huya/21059581
 虎牙-魔法世界,http://43.138.170.29:35455/huya/21059580
+虎牙-魔法世界,http://43.138.170.29:35455/huya/21059580
+虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581
 虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581
 虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
+虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
+虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
 虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
 虎牙-欧美电影,http://43.138.170.29:35455/huya/11352880
 虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574
