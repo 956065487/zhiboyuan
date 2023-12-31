@@ -102,13 +102,16 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影2,http://43.138.170.29:35455/douyu/85894
 斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-苹果影院,http://43.138.170.29:35455/douyu/2793084
+欧美大片,http://43.138.170.29:35455/douyu/2793084
+斗鱼310926僵尸 丧尸 灾难片,http://vplay1a.douyucdn.cn/live/310926r532hRu5kX.flv?uuid=
+斗鱼310926僵尸 丧尸 灾难片,http://tx2play1.douyucdn.cn/live/310926r532hRu5kX.xs?uuid=
+斗鱼310926僵尸 丧尸 灾难片,http://43.138.170.29:35455/douyu/310926
 贝爷影院,http://43.138.170.29:35455/douyu/252802
 惊悚影院,http://43.138.170.29:35455/douyu/96577
 漫威影片,http://43.138.170.29:35455/douyu/6140589
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 史诗级战争电影,http://43.138.170.29:35455/huya/21059556
-史诗级战争电影,http://43.128.40.42:198/huya/21059556
+史诗级战争电影,https://al.flv.huya.com/src/1099531752751-1099531752751-86436109457817600-2199063628958-10057-A-0-1.flv?wsSecret=265f29133f9e13faef81bbf774717874&wsTime=658b7e96&u=0&seqid=17035543237740810&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103
 超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -266,21 +269,3 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 电影_功夫片,http://43.128.40.42:198/虎牙直播/huya.php?id=11352941
 电影_黑帮片,http://43.128.40.42:198/虎牙直播/huya.php?id=11336719
 电影_灾难片,http://43.128.40.42:198/虎牙直播/huya.php?id=11602075
-
-
-咪咕视频,#genre#
-咪咕视频1,http://111.13.111.242/000000001000PLTV/123/224/3221235619/1.m3u8?HlsProfileId=
-咪咕视频2,http://111.13.111.242/000000001000PLTV/123/224/3221235639/1.m3u8?HlsProfileId=
-咪咕视频3,http://111.13.111.242/000000001000PLTV/123/224/3221235800/1.m3u8?HlsProfileId=
-咪咕视频4,http://111.13.111.242/000000001000PLTV/123/224/3221235804/1.m3u8?HlsProfileId=
-咪咕视频5,http://111.13.111.242/000000001000PLTV/123/224/3221235808/1.m3u8?HlsProfileId=
-咪咕视频6,http://111.13.111.242/000000001000PLTV/123/224/3221235812/1.m3u8?HlsProfileId=
-咪咕视频7,http://111.13.111.242/000000001000PLTV/123/224/3221235816/1.m3u8?HlsProfileId=
-咪咕视频8,http://111.13.111.242/000000001000PLTV/123/224/3221235820/1.m3u8?HlsProfileId=
-咪咕视频9,http://111.13.111.242/000000001000PLTV/123/224/3221235824/1.m3u8?HlsProfileId=
-咪咕视频10,http://111.13.111.242/000000001000PLTV/123/224/3221235828/1.m3u8?HlsProfileId=
-咪咕视频11,http://111.13.111.242/000000001000PLTV/123/224/3221235832/1.m3u8?HlsProfileId=
-咪咕视频12,http://111.13.111.242/000000001000PLTV/123/224/3221235836/1.m3u8?HlsProfileId=
-咪咕视频13,http://111.13.111.242/000000001000PLTV/123/224/3221235848/1.m3u8?HlsProfileId=
-咪咕视频14,http://111.13.111.242/000000001000PLTV/123/224/3221235852/1.m3u8?HlsProfileId=
-
