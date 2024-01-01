@@ -15,6 +15,8 @@
         
 { "url": "http://肥猫.live", "name": "肥猫" },
 
+{ "url": "https://raw.githubusercontent.com/956065487/zhiboyuan/main/0821.json", "name": "0821" },
+
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
 
 { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
