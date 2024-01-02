@@ -1,32 +1,23 @@
-{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
+{ "urls": [
 
-{ "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
+{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
 { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
 
-{
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长线路"
-        },
-        {
-            "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "🚀公众号：电视盒子集"
-        }, 
-        
+{ "url": "https://weixine.net/ysc.json", "name": "运输车" },
+
+{ "url": "https://yydsys.top/duo", "name": "多多" },
+		        
 { "url": "http://肥猫.live", "name": "肥猫" },
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
+{ "url": "https://api-lmteam.koyeb.app/files/py.json", "name": "霜辉月明" },
 
-{ "url": "https://100km.top/0", "name": "骚零" },
-
-{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
-
-{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
-
-{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫频道" },
 
 { "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费" },
 
-{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟请勿上当购买" }]}
+{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟请勿上当购买" }
+
+]
+}
