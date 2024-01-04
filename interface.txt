@@ -10,7 +10,7 @@
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/XYQ.json", "name": "香雅情-XYQ" },
 		        
-{ "url": "https://999740.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.jsonp", "name": "OK大佬" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0822.json", "name": "OK大佬" },
 
 { "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
 
