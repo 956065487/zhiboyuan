@@ -18,7 +18,7 @@
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0825.json", "name": "PGONE-0825" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "JS配置-改自道长" },
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
 
 { "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json", "name": "V3" },
 
