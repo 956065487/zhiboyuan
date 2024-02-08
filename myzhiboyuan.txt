@@ -102,10 +102,11 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影2,http://43.138.170.29:35455/douyu/85894
 斗鱼电影2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-斗鱼电影19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+斗鱼20415,http://epg.112114.xyz/douyu/20415
+斗鱼20415,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 欧美大片,http://43.138.170.29:35455/douyu/2793084
 僵尸-丧尸-灾难片,http://43.138.170.29:35455/douyu/310926
-贝爷影院,http://43.138.170.29:35455/douyu/252802
+斗鱼252802,http://43.138.170.29:35455/douyu/252802
 惊悚影院,http://43.138.170.29:35455/douyu/96577
 斗鱼338759,http://43.138.170.29:35455/douyu/338759
 漫威影片,http://43.138.170.29:35455/douyu/6140589
@@ -118,7 +119,6 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 斗鱼434971,http://43.138.170.29:35455/douyu/434971
 斗鱼11553944,http://43.138.170.29:35455/douyu/11553944
 斗鱼-哈利波特8814650,http://43.138.170.29:35455/douyu/8814650
-可乐电影,http://epg.112114.xyz/douyu/20415
 科幻动作,http://43.138.170.29:35455/douyu/4332
 高分影视,http://43.138.170.29:35455/douyu/1735337
 粤语电影,http://43.138.170.29:35455/douyu/6566671
@@ -132,6 +132,14 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
 好莱坞电影,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+斗鱼电视剧HD1,http://43.138.170.29:35455/douyu/2838296
+斗鱼508118,http://43.138.170.29:35455/douyu/508118
+斗鱼9470198,http://43.138.170.29:35455/douyu/9470198
+斗鱼9249162,http://43.138.170.29:35455/douyu/9249162
+斗鱼3627728,http://43.138.170.29:35455/douyu/3627728
+斗鱼7882691,http://43.138.170.29:35455/douyu/7882691
+斗鱼263824,http://43.138.170.29:35455/douyu/263824
+斗鱼36337,http://43.138.170.29:35455/douyu/36337
 yy电影2,http://mmitv.top/pltv/yy.php?id=1382749892
 yy电影3,http://mmitv.top/pltv/yy.php?id=1382735573
 yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
@@ -189,10 +197,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 国外战争,http://mmitv.top/pltv/yy.php?id=1382735571
 国外战争,http://mmitv.top/pltv/yy.php?id=1382749918
 国外侦探电影,http://mmitv.top/pltv/yy.php?id=1382745099
-淘电影,http://123.113.236.129:8888/rtp/239.3.1.250:8001
-纬来电影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-美亚电影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+newTV,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+天映频道-电影,http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
 
 
 虎牙,#genre#
