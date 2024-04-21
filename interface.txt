@@ -2,8 +2,6 @@
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
-
 { "url": "https://weixine.net/ysc.json", "name": "运输车" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
@@ -20,9 +18,9 @@
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
 
-{ "url": "https://jihulab.com/mdxgh/mdxgh/-/raw/main/mdxgh.json", "name": "V3" },
+{ "url": "http://我不是.摸鱼儿.top", "name": "4K-摸鱼儿" },
 
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费" }
+{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，侵权请联系删除" }
 
 ]
 }
