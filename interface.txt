@@ -2,7 +2,7 @@
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
-{ "url": "http://tvkj.top/DC/tvys/svip.json", "name": "天微" },
+{ "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌", "name": "欧歌" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
 
@@ -10,9 +10,9 @@
 		        
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0822.json", "name": "OK大佬" },
 
-{ "url": "https://wds.ecsxs.com/230989.json", "name": "春莹天下" },
+{ "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json", "name": "小荷" },
 
-{ "url": "https://api-lmteam.koyeb.app/files/py.json", "name": "霜辉月明" },
+{ "url": "https://weixine.net/ysc.json", "name": "运输车" },
 
 { "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
