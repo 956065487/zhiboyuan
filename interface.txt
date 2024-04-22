@@ -7,8 +7,6 @@
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/XYQ.json", "name": "香雅情-XYQ" },
-		        
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0822.json", "name": "OK大佬" },
 
 { "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json", "name": "小荷" },
 
