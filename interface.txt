@@ -14,7 +14,7 @@
 
 { "url": "https://api-lmteam.koyeb.app/files/py.json", "name": "霜辉月明" },
 
-{ "url": "http://mdxgh.dynv6.net", "name": "祥子网络-4K" },
+{ "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
 
