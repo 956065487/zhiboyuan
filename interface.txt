@@ -2,7 +2,7 @@
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
-{ "url": "https://weixine.net/ysc.json", "name": "运输车" },
+{ "url": "http://xhztv.top/tvbox.txt", "name": "盒子多仓" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
 
