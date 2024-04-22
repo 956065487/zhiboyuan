@@ -14,7 +14,7 @@
 
 { "url": "https://api-lmteam.koyeb.app/files/py.json", "name": "霜辉月明" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0825.json", "name": "PGONE-0825" },
+{ "url": "https://notabug.org/dongchenys/pt/raw/json/zx.json", "name": "东辰-4K" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
 
