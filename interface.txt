@@ -2,7 +2,7 @@
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
-{ "url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌", "name": "欧歌" },
+{ "url": "https://gitee.com/tvkj/tw/raw/main/svip.json", "name": "天微" },
 
 { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
 
