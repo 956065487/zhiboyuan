@@ -4,9 +4,9 @@
 
 { "url": "https://gitee.com/tvkj/tw/raw/main/svip.json", "name": "天微" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/XYQ.json", "name": "香雅情-XYQ" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/XYQ.json", "name": "香雅情-XYQ" },
 
 { "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json", "name": "小荷" },
 
@@ -14,7 +14,7 @@
 
 { "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
-{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
 
 { "url": "http://我不是.摸鱼儿.top", "name": "4K-摸鱼儿" },
 
