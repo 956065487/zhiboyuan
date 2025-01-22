@@ -1,22 +1,14 @@
 { "urls": [
 
-{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
-
-{ "url": "https://gitee.com/tvkj/tw/raw/main/svip.json", "name": "天微" },
-
-{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/0821.json", "name": "饭改-0821" },
-
-{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/XYQ.json", "name": "香雅情-XYQ" },
-
-{ "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json", "name": "小荷" },
-
-{ "url": "https://weixine.net/ysc.json", "name": "运输车" },
+{ "url": "https://肥猫.com/", "name": "肥猫" },
 
 { "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
-{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/956065487/gao/master/js.json", "name": "JS配置-改自道长" },
+{ "url": "https://gitlab.com/dokiss1/tvbox/-/raw/3bb4ae5588a06c1b1564f425c528b1d3b1af875e/doki-SA.json", "name": "DOKI接口" },
 
-{ "url": "http://我不是.摸鱼儿.top", "name": "4K-摸鱼儿" },
+{ "url": "http://www.xzwl.top/祥子影视", "name": "祥子影视" },
+
+{ "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
 { "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，侵权请联系删除" }
 
