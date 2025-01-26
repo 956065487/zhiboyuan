@@ -233,25 +233,26 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 斗鱼4332科幻动作,https://www.goodiptv.club/douyu/4332
 斗鱼434971,https://www.goodiptv.club/douyu/434971
 译制国语2436390,https://www.goodiptv.club/douyu/2436390
+斗鱼1377142,https://www.goodiptv.club/douyu/1377142
+斗鱼电影122402,https://www.goodiptv.club/douyu/122402
+斗鱼电影85894,https://www.goodiptv.club/douyu/85894
+斗鱼2935323,https://www.goodiptv.club/douyu/2935323
+斗鱼4246519,https://www.goodiptv.club/douyu/4246519
+斗鱼5033502,https://www.goodiptv.club/douyu/5033502
+斗鱼310926,https://www.goodiptv.club/douyu/310926
+斗鱼338759,https://www.goodiptv.club/douyu/338759
+粤语电影6566671,https://www.goodiptv.club/douyu/6566671
+斗鱼4549169,https://www.goodiptv.club/douyu/4549169
 特辑影院-斗鱼3637778,https://www.goodiptv.club/douyu/363778
 斗鱼9249162,https://www.goodiptv.club/douyu/9249162
 斗鱼4505431,https://www.goodiptv.club/douyu/4505431
 斗鱼11963794,https://www.goodiptv.club/douyu/11963794
-斗鱼1377142,https://www.goodiptv.club/douyu/1377142
-斗鱼电影122402,https://www.goodiptv.club/douyu/122402
-斗鱼电影85894,https://www.goodiptv.club/douyu/85894
 斗鱼9470198,https://www.goodiptv.club/douyu/9470198
-斗鱼2935323,https://www.goodiptv.club/douyu/2935323
 斗鱼3627728,https://www.goodiptv.club/douyu/3627728
-斗鱼4246519,https://www.goodiptv.club/douyu/4246519
 斗鱼5522351,https://www.goodiptv.club/douyu/55223351
 斗鱼1735337高分影视,https://www.goodiptv.club/douyu/1735337
-斗鱼5033502,https://www.goodiptv.club/douyu/5033502
-粤语电影6566671,https://www.goodiptv.club/douyu/6566671
-斗鱼310926,https://www.goodiptv.club/douyu/310926
 斗鱼2838296电视剧HD1,https://www.goodiptv.club/douyu/2838296
-斗鱼338759,https://www.goodiptv.club/douyu/338759
-斗鱼4549169,https://www.goodiptv.club/douyu/4549169
+
 
 
 
