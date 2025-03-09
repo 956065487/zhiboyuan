@@ -253,6 +253,47 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 斗鱼1735337高分影视,https://www.goodiptv.club/douyu/1735337
 斗鱼2838296电视剧HD1,https://www.goodiptv.club/douyu/2838296
 
+#线路2#
+斗鱼20415,http://epg.112114.xyz/douyu/20415
+斗鱼2793084,http://epg.112114.xyz/douyu/2793084
+斗鱼252802,http://epg.112114.xyz/douyu/252802
+斗鱼36337,http://epg.112114.xyz/douyu/36337
+斗鱼7254536,http://epg.112114.xyz/douyu/7254536
+斗鱼3811092,http://epg.112114.xyz/douyu/3811092
+斗鱼9651304,http://epg.112114.xyz/douyu/9651304
+斗鱼6140589-漫威影片,http://epg.112114.xyz/douyu/6140589
+斗鱼8770422-豆瓣高分,http://epg.112114.xyz/douyu/8770422
+斗鱼52787-豆瓣高分2,http://epg.112114.xyz/douyu/52787
+斗鱼-恐怖经典1165374,http://epg.112114.xyz/douyu/1165374
+斗鱼96577-惊悚影院,http://epg.112114.xyz/douyu/96577
+斗鱼74374,http://epg.112114.xyz/douyu/74374
+斗鱼11553944,http://epg.112114.xyz/douyu/11553944
+斗鱼508118,http://epg.112114.xyz/douyu/508118
+斗鱼7882691,http://epg.112114.xyz/douyu/7882691
+斗鱼263824,http://epg.112114.xyz/douyu/263824
+斗鱼431460,http://epg.112114.xyz/douyu/431460
+斗鱼4332科幻动作,http://epg.112114.xyz/douyu/4332
+斗鱼434971,http://epg.112114.xyz/douyu/434971
+译制国语2436390,http://epg.112114.xyz/douyu/2436390
+斗鱼1377142,http://epg.112114.xyz/douyu/1377142
+斗鱼电影122402,http://epg.112114.xyz/douyu/122402
+斗鱼电影85894,http://epg.112114.xyz/douyu/85894
+斗鱼2935323,http://epg.112114.xyz/douyu/2935323
+斗鱼4246519,http://epg.112114.xyz/douyu/4246519
+斗鱼5033502,http://epg.112114.xyz/douyu/5033502
+斗鱼310926,http://epg.112114.xyz/douyu/310926
+斗鱼338759,http://epg.112114.xyz/douyu/338759
+粤语电影6566671,http://epg.112114.xyz/douyu/6566671
+斗鱼4549169,http://epg.112114.xyz/douyu/4549169
+特辑影院-斗鱼3637778,http://epg.112114.xyz/douyu/363778
+斗鱼9249162,http://epg.112114.xyz/douyu/9249162
+斗鱼4505431,http://epg.112114.xyz/douyu/4505431
+斗鱼11963794,http://epg.112114.xyz/douyu/11963794
+斗鱼9470198,http://epg.112114.xyz/douyu/9470198
+斗鱼3627728,http://epg.112114.xyz/douyu/3627728
+斗鱼5522351,http://epg.112114.xyz/douyu/55223351
+斗鱼1735337高分影视,http://epg.112114.xyz/douyu/1735337
+斗鱼2838296电视剧HD1,http://epg.112114.xyz/douyu/2838296
 
 
 
