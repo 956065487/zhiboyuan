@@ -4,7 +4,7 @@
 
 { "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
-{ "url": "https://gitlab.com/dokiss1/tvbox/-/raw/3bb4ae5588a06c1b1564f425c528b1d3b1af875e/doki-SA.json", "name": "DOKI接口" },
+{ "url": "https://gitlab.com/dokiss1/tvbox/-/raw/3bb4ae5588a06c1b1564f425c528b1d3b1af875e/doki-SK.json", "name": "DOKI接口" },
 
 { "url": "http://www.xzwl.top/祥子影视", "name": "祥子影视" },
 
