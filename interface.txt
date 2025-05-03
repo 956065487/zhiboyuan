@@ -8,7 +8,7 @@
 
 { "url": "https://ghproxy.cc/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口2" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口3" },
+{ "url": "https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口3-无加速" },
 
 { "url": "http://www.xzwl.top/祥子影视", "name": "祥子影视" },
 
