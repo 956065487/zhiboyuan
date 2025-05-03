@@ -4,7 +4,7 @@
 
 { "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
 
-{ "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-SK.json", "name": "DOKI接口" },
+{ "url": "https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-SK.json", "name": "DOKI接口" },
 
 { "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Ab.json", "name": "DOKI接口2" },
 
