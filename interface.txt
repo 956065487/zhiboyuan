@@ -1,9 +1,5 @@
 { "urls": [
 
-{ "url": "https://肥猫.com/", "name": "肥猫" },
-
-{ "url": "http://xhztv.top/4k.json", "name": "小盒子-4K" },
-
 { "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口" },
 
 { "url": "https://ghproxy.cc/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口2" },
