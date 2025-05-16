@@ -248,6 +248,8 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 虎牙-Eric次元宝贝,https://www.goodiptv.club/huya/21059552
 电影55,https://www.goodiptv.club/huya/23652317
 电影77,https://www.goodiptv.club/huya/11601971
+虎牙-绝不再虚伪讨好,https://www.goodiptv.club/huya/30080232
+
 
 虎牙-【周星星】星爷经典不间断,https://live.iill.top/huya/11342412
 虎牙-超级英雄电影,https://live.iill.top/huya/11352950
@@ -285,6 +287,8 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 虎牙-Eric次元宝贝,https://live.iill.top/huya/21059552
 电影55,https://live.iill.top/huya/23652317
 电影77,https://live.iill.top/huya/11601971
+虎牙-绝不再虚伪讨好,https://live.iill.top/huya/30080232
+
 
 
 影视-斗鱼,#genre#
