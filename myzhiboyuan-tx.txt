@@ -20,8 +20,8 @@ CCTV5,http://110.241.189.42:808/hls/5/index.m3u8
 CCTV5,http://111.61.236.247:9081/hls/5/index.m3u8
 CCTV5,http://60.9.236.96:50003/hls/5/index.m3u8
 CCTV5,http://123.182.247.236:8092/hls/5/index.m3u8
-CCTV5,http://110.241.189.42:808/hls/17/index.m3u8
-CCTV5,http://60.9.236.96:50003/hls/21/index.m3u8
+CCTV5+,http://110.241.189.42:808/hls/17/index.m3u8
+CCTV5+,http://60.9.236.96:50003/hls/21/index.m3u8
 CCTV6,http://110.241.189.42:808/hls/6/index.m3u8
 CCTV6,http://60.9.236.96:50003/hls/6/index.m3u8
 CCTV6,http://182.46.8.205:8018/hls/6/index.m3u8
