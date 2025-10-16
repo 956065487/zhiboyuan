@@ -1,6 +1,6 @@
 { "urls": [
 
-{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口" },
+{ "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "2K4K优选源" },
 
 { "url": "https://ghproxy.cc/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口2" },
 
