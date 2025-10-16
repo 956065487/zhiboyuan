@@ -10,3 +10,6 @@ http://epg.51zmt.top:8000/
 
 #影视仓配置地址文件，收集各位大佬的配置
 interface.txt
+
+#别人整合的各位大佬接口合集
+https://easy123.dpdns.org/yuan
