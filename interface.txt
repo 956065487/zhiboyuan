@@ -2,17 +2,19 @@
 
 { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "2K4K优选源" },
 
-{ "url": "https://ghproxy.cc/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口2" },
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" },
 
 { "url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口3" },
-
-{ "url": "http://www.xzwl.top/祥子影视", "name": "祥子影视" },
 
 { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
 { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用线路2" },
 
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，侵权请联系删除" }
+{ "url": "http://肥猫.com", "name": "肥猫" },
+
+{ "url": "http://ok321.top/tv", "name": "OK接口" },
+
+{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，整合各位大佬接口，侵权请联系删除" }
 
 ]
 }
