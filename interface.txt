@@ -10,7 +10,7 @@
 
 { "url": "http://肥猫.com", "name": "肥猫" },
 
-{ "url": "http://ok321.top/tv", "name": "OK接口" },
+{ "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/leevi0709/one/main/jsm.json", "name": "ONE接口" },
 
 { "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，整合各位大佬接口，侵权请联系删除" }
 
