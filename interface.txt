@@ -4,8 +4,6 @@
 
 { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二" },
 
-{ "url": "https://proxy.yaoyaoling.net/https://raw.githubusercontent.com/956065487/zhiboyuan/refs/heads/main/tvbox-master-doki/doki-Ab.json", "name": "DOKI接口3" },
-
 { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
 { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用线路2" },
