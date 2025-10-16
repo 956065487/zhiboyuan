@@ -10,6 +10,8 @@
 
 { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用线路2" },
+
 { "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，侵权请联系删除" }
 
 ]
