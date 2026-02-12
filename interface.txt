@@ -4,6 +4,8 @@
 
 { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "王小二（资源多）" },
 
+{ "url": "https://9280.kstore.vip/newwex.json", "name": "王小二（备用线路）" },
+
 { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
 { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用线路2" },
