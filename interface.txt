@@ -2,7 +2,7 @@
 
 { "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "2K4K优选源" },
 
-{ "url": "https://9280.kstore.vip/newwex.json", "name": "王小二（资源多）" },
+{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二（资源多）" },
 
 { "url": "http://tv.999888987.xyz/", "name": "王小二（备用线路）" },
 
