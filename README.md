@@ -12,4 +12,4 @@ http://epg.51zmt.top:8000/
 interface.txt
 
 #别人整合的各位大佬接口合集
-https://easy123.dpdns.org/yuan
+https://easy321.top/yuan
