@@ -1,20 +1,18 @@
 { "urls": [
 
-{ "url": "https://gitee.com/senno/tvbox/raw/master/api.json", "name": "2K4K优选源" },
+{ "url": "https://9280.kstore.vip/newwex.json", "name": "王小二新接口1" },
 
-{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二（资源多）" },
+{ "url": "https://9280.kstore.space/newwex.json", "name": "王小二新接口2" },
 
-{ "url": "http://tv.999888987.xyz/", "name": "王小二（备用线路）" },
+{ "url": "http://tvbox.王二小放牛娃.top", "name": "王小二中文接口3" },
 
 { "url": "http://www.饭太硬.com/tv/", "name": "饭太硬" },
 
 { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备用线路2" },
 
-{ "url": "http://肥猫.com", "name": "肥猫" },
+{ "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王小二接口4" },
 
-{ "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/leevi0709/one/main/jsm.json", "name": "ONE接口" },
-
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费，整合各位大佬接口，侵权请联系删除" }
+{ "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/leevi0709/one/main/jsm.json", "name": "ONE接口" }
 
 ]
 }
